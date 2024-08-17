@@ -1,6 +1,8 @@
+// Palindrome String
+
 import java.util.Scanner;
 
-public class Palindrome {
+public class Palindrome_String {
 
     public static void compare() {
         Scanner sc = new Scanner(System.in);

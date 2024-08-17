@@ -1,3 +1,5 @@
+
+// Prime Number Program 
 import java.util.Scanner;
 
 public class Prime_No {

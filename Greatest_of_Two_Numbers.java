@@ -1,3 +1,5 @@
+
+// to Find Greatest of Two Numbers
 import java.util.Scanner;
 
 public class Greatest_of_Two_Numbers {

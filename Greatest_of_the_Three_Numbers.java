@@ -1,3 +1,5 @@
+
+// Find the Greatest Number Among Three Numbers 
 import java.util.Scanner;
 
 public class Greatest_of_the_Three_Numbers {
@@ -16,10 +18,10 @@ public class Greatest_of_the_Three_Numbers {
         int gretest = a;
 
         if (b > gretest) {
-             gretest = b;
-        } 
-         if (c > gretest) {
-             gretest = c;
+            gretest = b;
+        }
+        if (c > gretest) {
+            gretest = c;
         }
 
         System.out.println("The greatest of the three numbers is : " + gretest);

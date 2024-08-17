@@ -1,4 +1,4 @@
-// Count Continues no  
+// Find the Count of Continues no   
 
 class Find_Max_Continues {
 

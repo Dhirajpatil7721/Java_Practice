@@ -1,6 +1,8 @@
+
+// Some of Ntural Numbers
 import java.util.Scanner;
 
-public class Natural_No_Some {
+public class Natural_No_Sum {
 
     public static void sum() {
 
