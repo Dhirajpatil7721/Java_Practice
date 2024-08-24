@@ -10,7 +10,7 @@ public class Prime_No {
         int num = sc.nextInt();
 
         boolean prime = true;
-        for (int i = 2; i < Math.sqrt(num); i++) {
+        for (int i = 2; i <= Math.sqrt(num); i++) {
 
             if (num % i == 0) {
                 prime = false;

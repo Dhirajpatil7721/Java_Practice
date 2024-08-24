@@ -26,7 +26,7 @@ Q9.Java Program to print Prime numbers in a given range
     Prime_Number_Given_Range.java
 
 Q10.Sum of digits of a Number 
-   sum_Of_Digit.java         
+   sum_Of_Digit.java
 
 Q11.Reverse Anything  
     Reverse_Anything.java
