@@ -21,4 +21,3 @@ public class Reverse_Anything {
         compare();
     }
 }
-x
