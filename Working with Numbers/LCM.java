@@ -11,6 +11,7 @@ public class LCM {
         System.out.println("Enter Second Number ");
         int num2=sc.nextInt();
 
+        int multi=()
         int result = (num1<num2) ? num1 : num2;
         // int loop= 
 
